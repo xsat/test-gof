@@ -159,7 +159,7 @@ $grid = grid($_REQUEST['c'] ?? '2-1,3-2,1-3,2-3,3-3');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="icon" type="image/jpeg" href="/icon.jpeg">
+    <link rel="icon" type="image/jpeg" href="/icon.png">
     <link href="/bootstrap.min.css" rel="stylesheet">
 
     <title>Game of Life</title>
